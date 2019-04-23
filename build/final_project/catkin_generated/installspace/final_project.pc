@@ -1,0 +1,8 @@
+prefix=/home/himsangseung/catkin_ws/install
+
+Name: final_project
+Description: Description of final_project
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himsangseung/catkin_ws/install/lib 
+Requires: 

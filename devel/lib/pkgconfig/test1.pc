@@ -1,0 +1,8 @@
+prefix=/home/himsangseung/catkin_ws/devel
+
+Name: test1
+Description: Description of test1
+Version: 0.0.0
+Cflags: -I/home/himsangseung/catkin_ws/src/test1/include
+Libs: -L/home/himsangseung/catkin_ws/devel/lib -ltest1
+Requires: geometry_msgs nav_msgs roscpp rospy std_msgs

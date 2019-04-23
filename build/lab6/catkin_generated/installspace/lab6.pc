@@ -1,0 +1,8 @@
+prefix=/home/himsangseung/catkin_ws/install
+
+Name: lab6
+Description: Description of lab6
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himsangseung/catkin_ws/install/lib 
+Requires: 

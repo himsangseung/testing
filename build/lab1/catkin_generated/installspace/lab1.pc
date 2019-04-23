@@ -1,0 +1,8 @@
+prefix=/home/himsangseung/catkin_ws/install
+
+Name: lab1
+Description: Description of lab1
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/himsangseung/catkin_ws/install/lib 
+Requires: 

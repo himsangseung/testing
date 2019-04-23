@@ -1,0 +1,8 @@
+prefix=/home/himsangseung/catkin_ws/install
+
+Name: lab5
+Description: Description of lab5
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himsangseung/catkin_ws/install/lib 
+Requires: 

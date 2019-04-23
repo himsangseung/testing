@@ -1,0 +1,9 @@
+<launch>
+
+  <node name ="lidar" pkg = "final_project" type = "lidar_detection.py">
+  </node>
+	<node name ="imu" pkg = "final_project" type = "imu_detection.py">
+  </node>
+
+
+</launch>
